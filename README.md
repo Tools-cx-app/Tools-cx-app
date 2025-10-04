@@ -1,1 +1,1 @@
-![Tools-cx-app's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tools-cx-app&include_all_commits=true&show_icons=true&theme=radical)
+![Tools-cx-app's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tools-cx-app&include_all_commits=true&show_icons=true&theme=radical&langs_count=20)
